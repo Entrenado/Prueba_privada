@@ -1,1 +1,4 @@
 ahora es una prueba
+esto es un cambio
+este es el segundo cambio
+y el merge solucionado
